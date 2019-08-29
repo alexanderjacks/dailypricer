@@ -1,3 +1,13 @@
+# 📋💸 dailypricer
+
+## AWS AppSync + API Gateway + DynamoDB + Cognito demo
+
++ User accounts, login prompt (Cognito)
++ daily expense estimate based on records (React w/ APIGateway, DynamoDB)
++ can edit persistent expense records (AppSync GraphQL query & mutation)
+
+
+-----
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
