@@ -1,15 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
+import { Header } from 'semantic-ui-react';
+import logo from './logo.png';
 import './App.css';
 
 export default class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+        <Header className="App-header">
+          <img src={logo} className="App-logo" alt="dailypricer logo" />
           <p>
-            Edit <code>this</code> asap.
+            We use <code>AWS</code> as much as we can
           </p>
           <a
             className="App-link"
@@ -17,9 +18,9 @@ export default class App extends React.Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Use React
+            React is the new HTML
           </a>
-        </header>
+        </Header>
       </div>
     );
   }
