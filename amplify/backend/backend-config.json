@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"dailypricer44fc0998": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

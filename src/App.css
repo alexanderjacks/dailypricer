@@ -8,7 +8,7 @@
 }
 
 .App-header {
-  background-image: radial-gradient(#842, #994, #0c0);
+  background-image: radial-gradient(lightgreen, papayawhip, snow);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -19,7 +19,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: forestgreen;
 }
 
 @keyframes App-logo-spin {
